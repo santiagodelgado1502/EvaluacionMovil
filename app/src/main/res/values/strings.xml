@@ -1,0 +1,38 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Vuelos</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Segurp que quieres borrar este vuelo?</string>
+    <string name="no_item_description">No items in the inventory</string>
+    <string name="edit_item_title">Edit Vuelo</string>
+    <string name="vuelo">Vuelo</string>
+    <string name="item_detail_title">Detalle de vuelo</string>
+    <string name="item_entry_title">Ingresar Vuelo</string>
+    <string name="item_name_req">Ruta *</string>
+    <string name="item_price_req">Precio *</string>
+    <string name="no">No</string>
+    <string name="precio">Precio</string>
+    <string name="pasajeros">Pasajeros</string>
+    <string name="escalas">Escalas</string>
+    <string name="Escalas_req">Escalas del vuelo</string>
+    <string name="pasajeros_req">Pasajeros *</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Yes</string>
+</resources>
